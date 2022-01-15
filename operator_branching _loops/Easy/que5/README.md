@@ -1,0 +1,1 @@
+Write a program to find the minimum out of three given numbers. The numbers are num1=35, num2=29 and num3=46.

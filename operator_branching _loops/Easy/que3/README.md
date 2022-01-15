@@ -1,0 +1,1 @@
+Write a program to find the maximum and minimum out of two given numbers. The numbers are num1=129 and num2=251.

@@ -1,0 +1,1 @@
+Write a program to find the maximum out of three given numbers. The numbers are num1=8, num2=23 and num3=17.
