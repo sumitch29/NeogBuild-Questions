@@ -1,0 +1,1 @@
+Write a Program to take a number input from user and find if the number is Prime or not.
